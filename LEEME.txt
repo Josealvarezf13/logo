@@ -1,0 +1,14 @@
+LOGOS OPTIMIZADOS PARA FIRMA DE CORREO VALBIFRUT
+
+Archivos:
+- valbifrut-email.png
+- brcgs-email.png
+- sedex-member-email.png
+
+Uso recomendado en HTML:
+- Valbifrut: mostrar a 230 px de ancho aprox.
+- BRCGS: mostrar a 40-43 px de alto aprox.
+- Sedex: mostrar a 38-43 px de alto aprox.
+
+Los archivos conservan fondo transparente y fueron recortados al contenido.
+Para Exchange Online deben estar alojados en una URL HTTPS pública y directa.
